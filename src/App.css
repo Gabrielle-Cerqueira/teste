@@ -1,0 +1,19 @@
+body{
+  width:100%;
+  height:100vh;
+  padding:2%;
+  border:0px;
+  display:inline-block;
+  flex-direction: column;
+  position: relative;
+  
+}
+
+.container_cad{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color:black;
+}
